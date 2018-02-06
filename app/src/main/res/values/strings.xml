@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentProject</string>
+
+    <string name="title_activity_visor">Visor</string>
+    <string name="second_fragment">Segundo</string>
+    <string name="hint">Menssage</string>
+    <string name="button">Process</string>
+    <string name="hello_blank_fragment">Blanco</string>
+
+    <string name="boton_start">Llamar</string>
+    <string name="action_settings">Configurar</string>
+
+    <string name="txt">Text</string>
+
++</resources>
